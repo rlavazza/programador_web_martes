@@ -1,0 +1,47 @@
+body{font-family: 'Roboto Flex', sans-serif;
+font-family: 'Sofia Sans', sans-serif;
+font-size: 20px;
+}
+
+h1{font-size: 50px;
+font-size: bold;
+color:aliceblue;}
+h3{font-size: 24px;
+color: rgb(158, 146, 146);}
+h2{font-size: 30px;
+margin-left: 20px;}
+
+.portada{
+    height: 450px;
+    position: relative;
+    background-image: url(../img/31363.jpg);
+    background-size: cover;
+    background-position: center;
+        }
+.nombre{position: absolute;
+top:60px; left:160px;
+}
+.nombre p {color: aliceblue;}
+.rox{width: 500px;
+    border: 2px solid rgb(227, 221, 221);
+    border-radius: 25px;
+   position:absolute;
+left: 650px;
+top: 50px}
+
+.pics img{border:2px solid black;}
+
+#contacto{width: 700px;
+background-image: url(../img/31363.jpg);
+background-size: cover;
+margin: 20px;
+padding-left: 25px;
+padding-top: 20px;}
+input{margin-bottom: 6px;
+}
+label{font-size: 16px;
+font-weight: bold;
+}
+textarea{border: 1px solid black;
+margin-top: 5px;
+margin-bottom: 5px;}
